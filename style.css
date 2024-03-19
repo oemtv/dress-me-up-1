@@ -1,0 +1,23 @@
+body {
+    background-image: url(images/bg8.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+  
+}
+
+h1 {
+    display: flex;
+    justify-content: left;
+    font-size: xx-small;
+    color: rgb(209, 148, 155);
+} 
+
+#hamster {
+    display: inline-block;
+    position: sticky;
+    max-height: 50em;
+    max-width: 50em;
+    margin-left: 20em;
+    margin-top: 4em;
+    cursor: pointer;
+}
